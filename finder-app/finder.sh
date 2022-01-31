@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Assignment 1 
 # Author    : Karthik Baggaon Rajendra
